@@ -2,6 +2,8 @@
 
 Da ich es immer vergesse/as I always forget it/Ya que siempre me olvido
 
+![MasterDetailTableViewBindings Image](https://github.com/frcocoatst/MasterDetailTableViewBindings/blob/master/0.png)
+
 ![MasterDetailTableViewBindings Image](https://github.com/frcocoatst/MasterDetailTableViewBindings/blob/master/1.png)
 
 ![MasterDetailTableViewBindings Image](https://github.com/frcocoatst/MasterDetailTableViewBindings/blob/master/2.png)
