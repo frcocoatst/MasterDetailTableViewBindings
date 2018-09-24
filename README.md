@@ -24,4 +24,9 @@ Da ich es immer vergesse/as I always forget it/Ya que siempre me olvido
 
 ![MasterDetailTableViewBindings Image](https://github.com/frcocoatst/MasterDetailTableViewBindings/blob/master/10.png)
 
+Add Insert and Delete Buttun connected to the ArrayController
+
+![MasterDetailTableViewBindings Image](https://github.com/frcocoatst/MasterDetailTableViewBindings/blob/master/11.png)
+
+![MasterDetailTableViewBindings Image](https://github.com/frcocoatst/MasterDetailTableViewBindings/blob/master/12.png)
 
